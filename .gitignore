@@ -29,5 +29,4 @@ startup.sh
 
 /app
 /public
-/src
-!handspot/handspot-vite/srcnode_modules/
+/server/node_modules
