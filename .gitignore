@@ -33,3 +33,4 @@ startup.sh
 handspot/src/tasks-vision
 handspot/public/wasm
 handspot/node_modules
+handspot/handspot-vite/node_modules
